@@ -12,6 +12,14 @@ Um framework ágile que busca alta eficiência em produção e interação entre
 
 ## Eventos
 
+### Pair programming
+
+O pair programming é uma prática / evento muito incentivado no `RAF`.
+
+Quando duas pessoas decidem fazer um pair programming, assim como na capoeira, quando duas pessoas entram na roda utilizam o `Iê`, o qual é um cumprimento que demonstra respeito pelo seu par e colegas de trabalho.
+
+Uma responsabilidade que deve ser destacada neste momento é que o `Mestre` deve tocar berimbau e cantar: `Paranauê` durante a prática do pair programming, assim como, se algum outro colega quiser acompanhar com palmas.
+
 ### Retrospectiva
 
 A retrospectiva é o momento de ver onde o time falhou e o que acertou definindo um plano de ação para tal.
