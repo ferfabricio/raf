@@ -12,9 +12,20 @@ Um framework ágile que busca alta eficiência em produção e interação entre
 
 ## Eventos
 
+### Retrospectiva
+
+A retrospectiva é o momento de ver onde o time falhou e o que acertou definindo um plano de ação para tal.
+
+Desta forma no `RAF` utilizamos o conceito `quebra gereba quebra`, o qual dentro da prática da Capoeira esta é uma modalidade ou momento em que os golpes não tem mais uma enfase na dança, ritmo ou na cultura e sim a enfase em acertar o adversário para valer.
+
+É importante salientar que neste momento não são utilizados instrumentos musicais ou cantada qualquer música. Somente os integrantes devem bater palmas e murmurar: `Quebra gereba quebra`.
+
+Um exemplo desta reunião pode ser visto no link: [https://www.youtube.com/watch?v=tPenuqoK4ws](https://www.youtube.com/watch?v=tPenuqoK4ws)
+
 ## Artefatos
 
 ### Backlog
+
 ### Task
 
 
